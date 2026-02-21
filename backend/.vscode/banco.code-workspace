@@ -1,0 +1,15 @@
+{
+  "folders": [
+    {
+      "name": "Backend (API)",
+      "path": ".."
+    },
+    {
+      "name": "Frontend (BancoApp)",
+      "path": "../BancoApp"
+    }
+  ],
+  "settings": {
+    "typescript.tsdk": "node_modules/typescript/lib"
+  }
+}
